@@ -3,6 +3,4 @@
 Merhaba, ben Kerem TAN. Yazılım geliştirme ve mobil uygulama geliştirme ile ilgileniyorum.  
 💻 Python (Temel) | C# (Orta) | HTML/CSS/JS (Profesyonel) | Android Studio  
 📱 Kullanıcı odaklı site tasarımı ve uygulamalar geliştiriyorum ve sürekli öğrenmeye açığım. 
-
-
-
+[![trexgame.gif](https://i.postimg.cc/L5mW4cYc/trexgame.gif)](https://postimg.cc/7GQ9mQN9)
