@@ -14,7 +14,8 @@ Merhaba, ben Kerem TAN. Yazılım geliştirme ve mobil uygulama geliştirme ile 
 
 
 
+<div align="center">
+  <img src="https://i.postimg.cc/gkXbMWY2/standard.gif" alt="Banner" width="700" />
+</div>
 
 
-
-[![trexgame.gif](https://i.postimg.cc/L5mW4cYc/trexgame.gif)](https://postimg.cc/7GQ9mQN9)
