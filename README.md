@@ -9,7 +9,7 @@ Merhaba, ben Kerem TAN. Yazılım geliştirme ve mobil uygulama geliştirme ile 
 ![Static Badge](https://img.shields.io/badge/Python-green?style=flat&logoColor=RED&logoSize=60)
 ![Static Badge](https://img.shields.io/badge/C%23-purple?style=flat&logoColor=RED&logoSize=60)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-cyan?style=flat&logoColor=RED&logoSize=60)
-![Static Badge](https://img.shields.io/badge/Java-orange?style=flat&logoColor=RED&logoSize=60)
+
 
 
 
