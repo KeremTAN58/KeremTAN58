@@ -12,5 +12,7 @@ Merhaba, ben Kerem TAN. Yazılım geliştirme ve mobil uygulama geliştirme ile 
 <img src="https://i.postimg.cc/5tBngFbF/standard-1.gif" alt="Banner" width="700" />
 </div>
 
-<img src="https://github.com/KeremTAN58/KeremTAN58/blob/output/github-contribution-grid-snake.gif">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KeremTAN58/KeremTAN58/output/snake.svg" alt="Snake animation" />
+</p>
 
